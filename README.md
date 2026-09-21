@@ -9,7 +9,7 @@ Desktop pet referenced from slugcat (Rain World)
 ## How to install
 
 ### Prerequisites
-Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+Make sure you have [Node.js](https://nodejs.org/) installed on your PC.
 
 1. Download the repository
 2. Open console (cmd.exe) and navigate to source file
