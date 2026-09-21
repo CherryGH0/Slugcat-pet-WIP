@@ -1,6 +1,6 @@
 # Slugcat-pet
 # WORK IN PROGRESS
-Desktop pet referenced from slugcat (Rain World)
+Desktop pet referenced from slugcat (Rain World) with custom physics logic and interactive mechanics
 
 ## Built With
 - **Language:** Javascript
